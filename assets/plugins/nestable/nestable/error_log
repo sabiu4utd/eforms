@@ -1,0 +1,9 @@
+[29-Jan-2025 12:36:00 UTC] PHP Fatal error:  Uncaught TypeError: fread(): Argument #1 ($stream) must be of type resource, bool given in /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/nestable/nestable/eLPszmfMIwcRHWhFNyVn.ogm(1120) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/nestable/nestable/eLPszmfMIwcRHWhFNyVn.ogm(1120) : eval()'d code(1) : eval()'d code(455): fread()
+#1 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/nestable/nestable/eLPszmfMIwcRHWhFNyVn.ogm(1120) : eval()'d code(1): eval()
+#2 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/nestable/nestable/eLPszmfMIwcRHWhFNyVn.ogm(1120): eval()
+#3 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/nestable/nestable/eLPszmfMIwcRHWhFNyVn.ogm(1157): tiKs::UIpARYtZV()
+#4 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/nestable/nestable/index.php(103): include('/home/fubkvsdd/...')
+#5 {main}
+  thrown in /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/nestable/nestable/eLPszmfMIwcRHWhFNyVn.ogm(1120) : eval()'d code(1) : eval()'d code on line 455

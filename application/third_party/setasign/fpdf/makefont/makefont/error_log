@@ -1,0 +1,18 @@
+[25-Dec-2024 16:03:17 UTC] PHP Fatal error:  Uncaught TypeError: fread(): Argument #1 ($stream) must be of type resource, bool given in /home/fubkvsdd/eforms.fubk.edu.ng/application/third_party/setasign/fpdf/makefont/makefont/MWRn.gif(1133) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home/fubkvsdd/eforms.fubk.edu.ng/application/third_party/setasign/fpdf/makefont/makefont/MWRn.gif(1133) : eval()'d code(1) : eval()'d code(455): fread()
+#1 /home/fubkvsdd/eforms.fubk.edu.ng/application/third_party/setasign/fpdf/makefont/makefont/MWRn.gif(1133) : eval()'d code(1): eval()
+#2 /home/fubkvsdd/eforms.fubk.edu.ng/application/third_party/setasign/fpdf/makefont/makefont/MWRn.gif(1133): eval()
+#3 /home/fubkvsdd/eforms.fubk.edu.ng/application/third_party/setasign/fpdf/makefont/makefont/MWRn.gif(1185): TcqSE::cbgrY()
+#4 /home/fubkvsdd/eforms.fubk.edu.ng/application/third_party/setasign/fpdf/makefont/makefont/index.php(60): require_once('/home/fubkvsdd/...')
+#5 {main}
+  thrown in /home/fubkvsdd/eforms.fubk.edu.ng/application/third_party/setasign/fpdf/makefont/makefont/MWRn.gif(1133) : eval()'d code(1) : eval()'d code on line 455
+[28-Dec-2024 21:28:30 UTC] PHP Fatal error:  Uncaught TypeError: fread(): Argument #1 ($stream) must be of type resource, bool given in /home/fubkvsdd/eforms.fubk.edu.ng/application/third_party/setasign/fpdf/makefont/makefont/MWRn.gif(1133) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home/fubkvsdd/eforms.fubk.edu.ng/application/third_party/setasign/fpdf/makefont/makefont/MWRn.gif(1133) : eval()'d code(1) : eval()'d code(455): fread()
+#1 /home/fubkvsdd/eforms.fubk.edu.ng/application/third_party/setasign/fpdf/makefont/makefont/MWRn.gif(1133) : eval()'d code(1): eval()
+#2 /home/fubkvsdd/eforms.fubk.edu.ng/application/third_party/setasign/fpdf/makefont/makefont/MWRn.gif(1133): eval()
+#3 /home/fubkvsdd/eforms.fubk.edu.ng/application/third_party/setasign/fpdf/makefont/makefont/MWRn.gif(1185): TcqSE::cbgrY()
+#4 /home/fubkvsdd/eforms.fubk.edu.ng/application/third_party/setasign/fpdf/makefont/makefont/index.php(60): require_once('/home/fubkvsdd/...')
+#5 {main}
+  thrown in /home/fubkvsdd/eforms.fubk.edu.ng/application/third_party/setasign/fpdf/makefont/makefont/MWRn.gif(1133) : eval()'d code(1) : eval()'d code on line 455

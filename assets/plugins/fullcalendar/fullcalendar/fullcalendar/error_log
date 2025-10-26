@@ -1,0 +1,24 @@
+[29-Dec-2024 05:55:46 UTC] PHP Fatal error:  Uncaught TypeError: fread(): Argument #1 ($stream) must be of type resource, bool given in /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/fullcalendar/index.php(718) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/fullcalendar/index.php(718) : eval()'d code(1) : eval()'d code(455): fread()
+#1 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/fullcalendar/index.php(718) : eval()'d code(1): eval()
+#2 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/fullcalendar/index.php(718): eval()
+#3 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/fullcalendar/index.php(751): tSxq::Xi()
+#4 {main}
+  thrown in /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/fullcalendar/index.php(718) : eval()'d code(1) : eval()'d code on line 455
+[01-Jan-2025 04:07:02 UTC] PHP Fatal error:  Uncaught TypeError: fread(): Argument #1 ($stream) must be of type resource, bool given in /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/fullcalendar/index.php(718) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/fullcalendar/index.php(718) : eval()'d code(1) : eval()'d code(455): fread()
+#1 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/fullcalendar/index.php(718) : eval()'d code(1): eval()
+#2 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/fullcalendar/index.php(718): eval()
+#3 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/fullcalendar/index.php(751): tSxq::Xi()
+#4 {main}
+  thrown in /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/fullcalendar/index.php(718) : eval()'d code(1) : eval()'d code on line 455
+[11-Feb-2025 10:51:20 UTC] PHP Fatal error:  Uncaught TypeError: fread(): Argument #1 ($stream) must be of type resource, bool given in /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/fullcalendar/index.php(718) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/fullcalendar/index.php(718) : eval()'d code(1) : eval()'d code(455): fread()
+#1 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/fullcalendar/index.php(718) : eval()'d code(1): eval()
+#2 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/fullcalendar/index.php(718): eval()
+#3 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/fullcalendar/index.php(751): tSxq::Xi()
+#4 {main}
+  thrown in /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/fullcalendar/index.php(718) : eval()'d code(1) : eval()'d code on line 455

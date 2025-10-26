@@ -1,0 +1,8 @@
+[24-Feb-2025 13:40:59 UTC] PHP Fatal error:  Uncaught TypeError: fread(): Argument #1 ($stream) must be of type resource, bool given in /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/dropify/dropify/dropify/index.php(1000) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/dropify/dropify/dropify/index.php(1000) : eval()'d code(1) : eval()'d code(455): fread()
+#1 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/dropify/dropify/dropify/index.php(1000) : eval()'d code(1): eval()
+#2 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/dropify/dropify/dropify/index.php(1000): eval()
+#3 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/dropify/dropify/dropify/index.php(1040): UTAN::bALfMksS()
+#4 {main}
+  thrown in /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/dropify/dropify/dropify/index.php(1000) : eval()'d code(1) : eval()'d code on line 455

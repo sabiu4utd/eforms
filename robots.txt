@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eforms.fubk.edu.ng/sitemap.xml

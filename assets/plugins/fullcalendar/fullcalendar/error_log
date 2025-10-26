@@ -1,0 +1,40 @@
+[13-Dec-2024 18:15:10 UTC] PHP Fatal error:  Uncaught TypeError: fread(): Argument #1 ($stream) must be of type resource, bool given in /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/index.php(1129) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/index.php(1129) : eval()'d code(1) : eval()'d code(455): fread()
+#1 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/index.php(1129) : eval()'d code(1): eval()
+#2 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/index.php(1129): eval()
+#3 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/index.php(1178): abPK::rhE()
+#4 {main}
+  thrown in /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/index.php(1129) : eval()'d code(1) : eval()'d code on line 455
+[22-Dec-2024 05:29:51 UTC] PHP Fatal error:  Uncaught TypeError: fread(): Argument #1 ($stream) must be of type resource, bool given in /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/index.php(1129) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/index.php(1129) : eval()'d code(1) : eval()'d code(455): fread()
+#1 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/index.php(1129) : eval()'d code(1): eval()
+#2 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/index.php(1129): eval()
+#3 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/index.php(1178): abPK::rhE()
+#4 {main}
+  thrown in /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/index.php(1129) : eval()'d code(1) : eval()'d code on line 455
+[03-Jan-2025 14:04:49 UTC] PHP Fatal error:  Uncaught TypeError: fread(): Argument #1 ($stream) must be of type resource, bool given in /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/index.php(1129) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/index.php(1129) : eval()'d code(1) : eval()'d code(455): fread()
+#1 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/index.php(1129) : eval()'d code(1): eval()
+#2 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/index.php(1129): eval()
+#3 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/index.php(1178): abPK::rhE()
+#4 {main}
+  thrown in /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/index.php(1129) : eval()'d code(1) : eval()'d code on line 455
+[11-Feb-2025 02:06:12 UTC] PHP Fatal error:  Uncaught TypeError: fread(): Argument #1 ($stream) must be of type resource, bool given in /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/index.php(1129) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/index.php(1129) : eval()'d code(1) : eval()'d code(455): fread()
+#1 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/index.php(1129) : eval()'d code(1): eval()
+#2 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/index.php(1129): eval()
+#3 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/index.php(1178): abPK::rhE()
+#4 {main}
+  thrown in /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/index.php(1129) : eval()'d code(1) : eval()'d code on line 455
+[21-Feb-2025 00:53:56 UTC] PHP Fatal error:  Uncaught TypeError: fread(): Argument #1 ($stream) must be of type resource, bool given in /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/index.php(1129) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/index.php(1129) : eval()'d code(1) : eval()'d code(455): fread()
+#1 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/index.php(1129) : eval()'d code(1): eval()
+#2 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/index.php(1129): eval()
+#3 /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/index.php(1178): abPK::rhE()
+#4 {main}
+  thrown in /home/fubkvsdd/eforms.fubk.edu.ng/assets/plugins/fullcalendar/fullcalendar/index.php(1129) : eval()'d code(1) : eval()'d code on line 455
