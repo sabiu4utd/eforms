@@ -293,5 +293,21 @@ join users on users.id = applicant_id where form_id in (6,8,10) and session_appl
 	        ->update('ordered_forms');
 	}
 	
+		public function getadmissionlist(){
+	    return $this->db
+	        ->select('application_number, firstname, surname, middlename, gender, prog_abbr, session_applied, admission_status')
+	        ->from('users')
+	        ->join('ordered_forms', 'users.id = ordered_forms.applicant_id')
+	        ->join('programmes', 'programmes.id = ordered_forms.program_id')
+	        ->where('session_applied', '2025/2026')
+	        ->where('admission_status', 'admitted')
+	        ->where('ordered_forms.form_id', 3)
+	        ->order_by('prog_abbr', 'desc')
+	        ->get()
+            ->result();
+    
+	        
+	}
+	
 }
 ?>

@@ -209,6 +209,14 @@ class Formapi extends REST_Controller
         $data = [];
         return $this->response($data, 200);
    }
+   public function admissionList_get(){
+        $result = $this->formapi_model->getadmissionlist();
+        $datas = [
+            "result" => $result
+        ];
+        
+       return $this->response($datas, 200);
+   }
    
    
 
