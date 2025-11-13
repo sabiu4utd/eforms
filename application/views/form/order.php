@@ -157,14 +157,26 @@
                                                     <div class="col-12 mt-4 mb-4">
                                                         <div id="error" class="badge badge-danger form-control text-center"></div>
                                                     </div>
+                                                   
                                                     <div class="col-sm-12 mt-4 ">
                                                         <input type="hidden" id="form_id" name="form_id" value="<?php echo $form->id?>" />
                                                         <input type="hidden" name="order_hash" id="order_hash" />
                                                         <button class="form-control btn btn-primary" style="visibility: hidden" id="submit" type="submit">Generate Invoice</button>
-                                                        <a href="" class="form-control btn btn-success" style="visibility: hidden" id="paystack_link" class>Click to Pay using Paystack</a>
+                                                        <span class="badge badge-warning"  style="visibility: hidden; font-size:18pt" id="paystack_link">
+                                                            Pay the non-refundable application fee to the account below <br /> <br />
+                                                            Account Name: FUBK CONSULT LTD <br /><br />
+                                                            Bank Name: Sterling Bank <br /><br />
+                                                            Account Number: 0087958543 <br /><br />
+                                                            Part Time Degree: N10,000 <br /><br />
+                                                            Certificate and Diploma: N5,000 <br /><br /><br />
+                                                            <input type="submit" value="Click here after payment and wait for confirmation within the next 24 Hours" class="form-control btn btn-info" />
+                                                        </span>
+                                                         
+                                                        <!--<a href="" class="form-control btn btn-success" style="visibility: hidden" id="paystack_link" class>Click to Pay using Paystack</a>-->
                                                     </div>
                                                 </div>
                                             </div>
+                                            
                                         </form>
                                         <?php }else if(($form->form_type == "PUTME Form" and !$putme_search) or !$jamb_info){ ?>
                                         <form action="<?php echo site_url('form/order') ?>" method="post">
